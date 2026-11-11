@@ -1,7 +1,42 @@
 # 💫 Hi 👋, I'm Purohit Jagadeesh Singh
 **CSE (AI) Student | Aspiring Cloud & DevOps Engineer | Java | Web Development | AWS | Linux**
 
+Email Me 👉 ✉️ **jagadeeshrajpurohit15@gmail.com** For Collaboration/Project or Anything Else. 😊😊# 💫 Hi 👋, I'm Purohit Jagadeesh Singh
+**CSE (AI) Student | Aspiring Cloud & DevOps Engineer | Java | Web Development | AWS | Linux**
+
 Email Me 👉 ✉️ **jagadeeshrajpurohit15@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Java, Web Development, Cloud Computing, AWS & DevOps Projects
+- 🌱 **I’m currently learning:** Java, Data Structures & Algorithms, HTML, CSS, JavaScript & AWS Cloud Computing
+- 👯 **I’m looking to collaborate on:** Beginner-friendly Java, Web Development & Cloud Projects
+- 🤔 **I’m looking for help with:** Problem Solving, Java, AWS & DevOps
+- 💬 **Ask me about:** Java, C, HTML, CSS & JavaScript
+- 📫 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/purohit-jagadeesh-singh-02463a3a0/)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love learning new technologies and building things! 🚀
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagdishsinghrajpurohit37) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/purohit-jagadeesh-singh-02463a3a0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadeeshrajpurohit15@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jagdxdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jagdxdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jagdxdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jagdxdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jagdxdev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=jagdxdev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 - 🔭 **I’m currently working on:** Java, Web Development, Cloud Computing, AWS & DevOps Projects
 - 🌱 **I’m currently learning:** Java, Data Structures & Algorithms, HTML, CSS, JavaScript & AWS Cloud Computing
