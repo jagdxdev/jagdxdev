@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Purohit Jagadeesh Singh
+**CSE (AI) Student | Aspiring Cloud & DevOps Engineer | Java | Web Development | AWS | Linux**
 
+Email Me 👉 ✉️ **jagadeeshrajpurohit15@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Java, Web Development, Cloud Computing, AWS & DevOps Projects
+- 🌱 **I’m currently learning:** Java, Data Structures & Algorithms, HTML, CSS, JavaScript & AWS Cloud Computing
+- 👯 **I’m looking to collaborate on:** Beginner-friendly Java, Web Development & Cloud Projects
+- 🤔 **I’m looking for help with:** Problem Solving, Java, AWS & DevOps
+- 💬 **Ask me about:** Java, C, HTML, CSS & JavaScript
+- 📫 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/purohit-jagadeesh-singh-02463a3a0/)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love learning new technologies and building things! 🚀
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagdishsinghrajpurohit37) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/purohit-jagadeesh-singh-02463a3a0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadeeshrajpurohit15@gmail.com) 
 
